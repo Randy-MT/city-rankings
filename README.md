@@ -15,5 +15,5 @@ Only one state was chosen (Washington State).  Standardizing data sources across
 
 ### Data Sources
 ***
-Housing Data: Data provided by Redfin, a national real estate brokerage.
+Housing Data: Data provided by Redfin, a national real estate brokerage. https://www.redfin.com/news/data-center/
 
