@@ -20,9 +20,9 @@ Automated and consistent data sources need to be harnessed to allow for expansio
 ***
 Data sources are linked within the notebook file.  A local copy of each data source is required to obtain results from within the notebook. </br>
 </br>
-Housing Data: Data provided by Redfin, a national real estate brokerage. https://www.redfin.com/news/data-center/ </br>
-Income Data: Data provided by The Washington State Office of Financial Management. https://ofm.wa.gov/washington-data-research/economy-and-labor-force/median-household-income-estimates </br>
-School Directory: Data provided by the Washington State Office of Superintendent of Public Instruction. https://ofm.wa.gov/washington-data-research/economy-and-labor-force/median-household-income-estimates </br>
-Student Growith:  Data provided by data.wa.gov.  https://data.wa.gov/Education/Report-Card-Growth-for-2018-19/uj4q-wr8d </br>
-Student Test Scores:  Data provided by the U.S. Department of Education. https://www2.ed.gov/about/inits/ed/edfacts/data-files/index.html </br>
-Crime/Population: Data provided by Federal Bureau of Investigation.  https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/washington.xls
+***Housing Data:*** Data provided by Redfin, a national real estate brokerage. https://www.redfin.com/news/data-center/ </br>
+***Income Data:*** Data provided by The Washington State Office of Financial Management. https://ofm.wa.gov/washington-data-research/economy-and-labor-force/median-household-income-estimates </br>
+***School Directory:*** Data provided by the Washington State Office of Superintendent of Public Instruction. https://ofm.wa.gov/washington-data-research/economy-and-labor-force/median-household-income-estimates </br>
+***Student Growith:***  Data provided by data.wa.gov.  https://data.wa.gov/Education/Report-Card-Growth-for-2018-19/uj4q-wr8d </br>
+***Student Test Scores:***  Data provided by the U.S. Department of Education. https://www2.ed.gov/about/inits/ed/edfacts/data-files/index.html </br>
+***Crime/Population:*** Data provided by Federal Bureau of Investigation.  https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/washington.xls
