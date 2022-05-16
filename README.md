@@ -15,4 +15,5 @@ Only one state was chosen (Washington State).  Standardizing data sources across
 Data sources are linked within the notebook file.  A local copy of each data source is required to obtain results from within the notebook. </br>
 Housing Data: Data provided by Redfin, a national real estate brokerage. https://www.redfin.com/news/data-center/ </br>
 Income Data: Data provided by The Washington State Office of Financial Management. https://ofm.wa.gov/washington-data-research/economy-and-labor-force/median-household-income-estimates </br>
+School Directory: Data provided by the Washington State Office of Superintendent of Public Instruction. https://ofm.wa.gov/washington-data-research/economy-and-labor-force/median-household-income-estimates
 
