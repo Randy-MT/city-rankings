@@ -1,2 +1,4 @@
 # wa-state-city-rankings
-A broad approach towards identifying locations to raise a family.  Metrics used include school test scores, crime, population, personal income, and home values / appreciation.  Washington State is used within example data.
+### Data sources
+***
+Data sources are linked within the notebook file.  A local copy of each data source is required to obtain results from within the notebook.
