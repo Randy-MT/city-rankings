@@ -13,11 +13,13 @@ Interactive widgets are incorporated within the notebook.  Customizing the widge
 Only one state was chosen (Washington State).  Standardizing data sources across the United States is needed for further usage and automation.  Null values exist within some county data sets.  
 
 ### Future Considerations 
+***
 Automated and consistent data sources need to be harnessed to allow for expansion past an individual state.
 
 ### Data Sources
 ***
 Data sources are linked within the notebook file.  A local copy of each data source is required to obtain results from within the notebook. </br>
+</br>
 Housing Data: Data provided by Redfin, a national real estate brokerage. https://www.redfin.com/news/data-center/ </br>
 Income Data: Data provided by The Washington State Office of Financial Management. https://ofm.wa.gov/washington-data-research/economy-and-labor-force/median-household-income-estimates </br>
 School Directory: Data provided by the Washington State Office of Superintendent of Public Instruction. https://ofm.wa.gov/washington-data-research/economy-and-labor-force/median-household-income-estimates </br>
