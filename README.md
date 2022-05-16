@@ -1,4 +1,4 @@
-# wa-state-city-rankings
+# Location Selector
 ### Goal of Project
 ***
 To create a customizable location search whereby combined data can be used to expose potential cities of interest based on individual needs.
